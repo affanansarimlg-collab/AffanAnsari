@@ -100,7 +100,7 @@ I am currently building my foundation in ML through **small projects, coursework
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/affan-ansari">
+  <a href="https://www.linkedin.com/in/affan--ansari/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Affan%20Ansari-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:affanansarimlg@gmail.com">
