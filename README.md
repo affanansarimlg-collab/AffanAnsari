@@ -101,7 +101,7 @@ I am currently building my foundation in ML through **small projects, coursework
 
 <p align="center">
   <a href="https://www.linkedin.com/in/affan--ansari/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Affan%20Ansari-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Affan%20Ansari-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:affanansarimlg@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
